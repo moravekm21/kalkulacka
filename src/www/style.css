@@ -33,7 +33,7 @@ body {
     width: 100px;
     text-align: center;
     padding: 10px;
-    margin: 10px 0 1px 0;
+    margin: 10px 10px 10px 10px;
     cursor: pointer;
     background-color: #ddd;
     transition: border-color .2s ease-in-out, background-color .2s, box-shadow .2s;
